@@ -19,7 +19,6 @@ Completing these tasks, I've learn how to write basic Python programs that use v
 
 - Python Loop
     - Iteration(While and for loops)
-    - Sub-item
     - Exit Condition
 
 - Python Functions
